@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning XR and Android development.<br><br>👨‍💻 All of my projects are available here portfoliolink<br><br>👨‍💼 I have been doing some Community work as well lately, check here<br><br>📫 How to reach me : ankitnavaghare@gmail.com
+🌱 I’m currently learning XR and Android development.<br><br>👨‍💻 All of my projects are available here portfoliolink<br><br>👨‍💼 I have been doing some Community work as well lately, check here<br><br>📫 How to reach me : ankitnavaghare12345@gmail.com
 
 
 ## 🌐 Socials:
