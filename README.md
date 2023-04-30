@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Killua-22&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/ankit)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/_ankitfr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Killua-22&limit=5&theme=dark&combine_all_yearly_contributions=true)
