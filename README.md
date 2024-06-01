@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning XR and Android development.<br><br>👨‍💼 I have been doing some Community work as well lately, check here<br><br>📫 How to reach me : ankitnavaghare12345@gmail.com
+🌱 Recent Computer Science graduate with Honors in AR/VR.<br><br>👨‍💼 I’m currently learning XR and .NET.<br><br>📫 How to reach me : ankitnavaghare12345@gmail.com
 
 
 ## 🌐 Socials:
